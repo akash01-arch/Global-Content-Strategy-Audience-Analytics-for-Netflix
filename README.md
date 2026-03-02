@@ -3,7 +3,7 @@ Data-Driven Content Strategy: Unlocking $500M value Analysis of Netflix’s glob
 
 Author: Akash More
 
-Date: February 2026
+Date: March 2026
 
 Objective: Build a comprehensive analytics system for Netflix content strategy optimization.
 
