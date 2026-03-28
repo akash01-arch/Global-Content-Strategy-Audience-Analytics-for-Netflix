@@ -36,3 +36,6 @@ Data-Driven Content Strategy: Unlocking $500M value Analysis of Netflix’s cont
 
 **10. Actionable Recommendations**
 - **Delivered strategic recommendations** backed by statistical evidence, identifying 3 high-priority content gaps (Korean dramas, Anime, Spanish documentaries) projected to capture 15% additional market share
+
+
+Author - Akash More
